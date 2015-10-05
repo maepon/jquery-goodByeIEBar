@@ -19,3 +19,7 @@ $(function(){
 </script>
 ```
 
+## ご注意
+
+このjQueryプラグインは[前川昌幸](https://github.com/maepon)が作成し、オリジナルのJavaScriptの作成を行った物江氏の許可を得ています。あくまでもこのプラグインの作成者は前川にありますので、このプラグインを利用しての不具合の報告などは、このレポジトリの[issues](https://github.com/maepon/jquery-goodByeIEBar/issues)にお願いします。
+
