@@ -8,7 +8,7 @@ http://blogs.msdn.com/b/osamum/archive/2015/10/01/the-script-does-informs-the-ol
 ## 利用方法
 
 ```html
-// ↓すでにjQueryを読み込んでいる場合は必要ありません
+<!-- ↓すでにjQueryを読み込んでいる場合は必要ありません -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 
 <script src="https://maepon.github.io/jquery-goodByeIEBar/public/jQuery.goodByeIEBar.min.js"></script>
