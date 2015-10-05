@@ -71,6 +71,8 @@
       .click(function(){
         $(this).remove();
       });
+
+    $('body').append($LIMIT_BAR);
   }
 
   $.fn.goodByeIEBar = function(){
